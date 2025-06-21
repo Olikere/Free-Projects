@@ -11,9 +11,9 @@
 
 Este repositório é um **diário de aprendizado prático** na área de **cyber segurança**, com foco em:
 
-- Programação aplicada à resolução de problemas (como os desafios do Project Euler)
+- Programação aplicada à resolução de problemas (como os desafios matemáticos, criação de aplicações, automações para uso administrativo de sistemas e redes )
 - Desenvolvimento de ferramentas simples para **pentest**, **automação de tarefas**, e **monitoramento**
-- Estudo contínuo de conceitos relacionados a **segurança ofensiva** e **defensiva**
+- Estudo contínuo de conceitos relacionados a **segurança ofensiva** 
 
 O objetivo principal é o estudo prático e evolutivo na área de cyber segurança.
 
