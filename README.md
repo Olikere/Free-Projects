@@ -9,7 +9,7 @@
 
 ## Sobre
 
-<div>Este repositório é um **diário de aprendizado prático** na área de **cyber segurança**, com foco em:
+Este repositório é um **diário de aprendizado prático** na área de **cyber segurança**, com foco em:
 
 - Programação aplicada à resolução de problemas (como os desafios do Project Euler)
 - Desenvolvimento de ferramentas simples para **pentest**, **automação de tarefas**, e **monitoramento**
