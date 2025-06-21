@@ -23,7 +23,8 @@ O objetivo principal é o estudo prático e evolutivo na área de cyber seguran�
 
 ## 🧠 Projetos
 
-### 🔢 Project Euler
+### 🔢 MathCraft
+
 Resolução de desafios matemáticos usando programação.  
 Foco em lógica, estrutura de código, algoritmos e eficiência.
 
