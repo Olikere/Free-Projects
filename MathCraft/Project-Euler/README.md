@@ -17,9 +17,9 @@ Nesse conjunto de desafios, você continuará desenvolvendo as habilidades que a
 Aqui você continuará flexionando suas habilidades matemáticas e algorítmicas à medida que você usa conceitos como teoria dos jogos combinatórios, operações bitwise e a sequência de auto-descrição da Golomb para desenvolver soluções eficientes para esses problemas.
 
 
-### Nota 
+### Linguagem usada
 
-Esses desafios suportam soluções JavaScript apenas.
+![JavaScript](https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 # Creditos
